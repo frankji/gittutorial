@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"USER",
+				"user_id"
+			],
+			[
+				"e",
+				"execute"
+			],
+			[
+				"my",
+				"myjson"
+			],
+			[
+				"a",
+				"all_genes"
+			],
+			[
+				"M",
+				"mygene"
+			],
+			[
+				"to",
+				"to_merge_1"
+			],
+			[
+				"tmp",
+				"tmp_24"
+			],
+			[
+				"temp",
+				"temp_binary"
+			],
+			[
+				"gene_",
+				"gene_mat"
+			],
+			[
+				"term",
+				"term_mat"
+			],
+			[
+				"ter",
+				"term_list"
+			],
+			[
+				"te",
+				"term_mat"
+			],
+			[
+				"gene",
+				"gene_flatten"
+			],
+			[
+				"GO",
+				"GO_mat_first"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"all",
+				"all_GOs"
+			],
+			[
+				"gen",
+				"gene_symbol"
+			],
+			[
+				"go",
+				"gene_GOs_picked"
+			],
+			[
+				"geo",
+				"Genome"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"re",
+				"re_index"
+			],
+			[
+				"selecte",
+				"selected_indices"
+			],
+			[
+				"anti",
+				"antiselected_indices"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"tit",
+				"title_temp"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Frank/Courses/python/Week17/geodata/where.data",
+		"/Users/Frank/Courses/python/Week17/geodata/getload2.py",
+		"/Users/Frank/Courses/python/Week17/geodata/geodump.py",
+		"/Users/Frank/Courses/python/Week17/geodata/geodump2.py",
+		"/Users/Frank/Courses/python/Week17/geodata2/geodump.py",
+		"/Users/Frank/Courses/python/Week16/roster2.py",
+		"/Users/Frank/Courses/ML/machine-learning-ex2/ex2/ex2.m",
+		"/Users/Frank/Courses/python/Week15/Library.xml",
+		"/Users/Frank/Project/hongyu/20160627/subcol.py",
+		"/Users/Frank/Project/hongyu/20160627/genes_for_EA.py",
+		"/Users/Frank/Project/hongyu/20160627/select_string.py",
+		"/Users/Frank/Project/hongyu/20160627/map_gene.py",
+		"/Users/Frank/Project/hongyu/20160627/notes_0627",
+		"/Users/Frank/Downloads/9606.protein.links.v10.txt",
+		"/Users/Frank/Project/hongyu/20160627/merge.py",
+		"/Users/Frank/Project/hongyu/20160627/entrez_gene_id.vs.string.v10.28042015.tsv",
+		"/Users/Frank/Project/hongyu/20160613/notes0614",
+		"/Users/Frank/Project/hongyu/20160613/notes0613",
+		"/Users/Frank/Courses/python/Week11/weel11.py",
+		"/Users/Frank/Downloads/py4i2.py",
+		"/Users/Frank/Downloads/py4i.py",
+		"/Users/Frank/Project/hongyu/kang/Notes_2.R",
+		"/Users/Frank/Project/hongyu/kang/Notes_3.R",
+		"/Users/Frank/Project/hongyu/kang/notes_4.R",
+		"/Users/Frank/Project/hongyu/notes/notes13",
+		"/Users/Frank/Project/hongyu/notes/notes_11",
+		"/Users/Frank/Project/hongyu/notes/notes_10",
+		"/Users/Frank/Project/hongyu/notes/notes12",
+		"/Users/Frank/anaconda/envs/python2/lib/python2.7/site-packages/keras2/layers/convolutional.py",
+		"/Users/Frank/anaconda/envs/python2/lib/python2.7/site-packages/keras/layers/convolutional.py",
+		"/Users/Frank/anaconda/lib/python3.5/site-packages/keras/utils/generic_utils.py",
+		"/Users/Frank/anaconda/lib/python3.5/site-packages/keras/models2.py",
+		"/Users/Frank/anaconda/lib/python3.5/site-packages/keras/objectives2.py",
+		"/Users/Frank/Project/hongyu/kang/notes_5.R",
+		"/Users/Frank/Project/hongyu/kang/notes_7.R",
+		"/Users/Frank/Project/hongyu/kang/notes_10.R",
+		"/Users/Frank/Project/hongyu/kang/notes_8.pl",
+		"/Users/Frank/Project/hongyu/kang/notes_6.R",
+		"/Users/Frank/Project/hongyu/kang/Notes.R",
+		"/Users/Frank/Courses/cbb523/lecture17/harddiskmontecarlo.m",
+		"/Users/Frank/Project/hongyu/kang/Notes",
+		"/Users/Frank/Project/rosetta/HIQ54/single_repack/residue_parser_2.pl",
+		"/Users/Frank/Courses/stat665/dj333_pset02/dj333_pset02_script.R",
+		"/Users/Frank/Project/rosetta/HIQ54/cleaned3/residue_parser_2.pl",
+		"/Users/Frank/Project/rosetta/HIQ54/cleaned3/collect/getchi1.pl",
+		"/Users/Frank/Project/rosetta/HIQ54/cleaned3/collect/getchi2.pl",
+		"/Users/Frank/Downloads/HiQ54 5/1AGY_H.pdb",
+		"/Users/Frank/Downloads/read_data.f",
+		"/Users/Frank/Project/Corey/test.pdb",
+		"/Users/Frank/Project/Corey/enery_calc.pl",
+		"/Users/Frank/Project/Corey/format.pl",
+		"/Users/Frank/Project/Corey/ALA.test",
+		"/Users/Frank/Project/Corey/ALA_pymol.pdb"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"memoryview",
+			"buffer",
+			"seasons greatings",
+			"grid",
+			"9606.ENSP00000003100",
+			"print ",
+			"print",
+			"re.search",
+			"data.startswith",
+			"Dense",
+			"first",
+			"cleaned.p",
+			"home/fas/ohern/dj333/Rosetta/",
+			"/home/fas/ohern/dj333/Rosetta/single",
+			"export ROSETTA=/home/fas/ohern/dj333/rosetta_bin_linux_2016.02.58402_bundle/main/source/bin/rosetta_scripts.linuxgccrelease\n",
+			"/home/fas/ohern/dj333/Rosetta/",
+			"1x6x_clean",
+			"1x6x_cleaned.pdb",
+			"/users/Frank/Project/rosetta/HIQ54/cleaned3",
+			"relax",
+			"/Users/Frank/Project/rosetta/HIQ54/cleaned2/1AGY/relax/",
+			"single_repack",
+			"/home/fas/ohern/dj333/Rosetta/",
+			"export ROSETTA=/home/fas/ohern/dj333/rosetta_bin_linux_2016.02.58402_bundle/main/source/bin/rosetta_scripts.linuxgccrelease\n",
+			"export ROSETTA=/Users/Frank/Project/rosetta/HIQ54_bin_linux_2016.02.58402_bundle/main/source/bin/rosetta_scripts.linuxgccrelease\n",
+			"/home/fas/ohern/dj333/Rosetta",
+			"cp",
+			"-(1:4)",
+			"[,1]",
+			"mt",
+			"ny",
+			"ct",
+			"core",
+			"chi1",
+			"core",
+			"comparison",
+			"noncore_noncore",
+			"core_chi2",
+			"chi1",
+			"core",
+			"chi[1]",
+			"chi1",
+			"chi2",
+			"core",
+			"CHI1",
+			"core",
+			";"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
